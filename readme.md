@@ -1,8 +1,15 @@
 #This is a new shit
 '''html
 <h1>Header</h1>
-Here we go
+'''
+
+
+Here we go. 
 *text*
-**text**
+
+
+**text**. 
 ***TEXT***
-~~remove it~~
+
+
+~~remove it~~  well done
